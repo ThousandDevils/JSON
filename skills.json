@@ -1,0 +1,3 @@
+var jsonSkills = '{"skill1":"basic theory", "skill2":"HTTP method", "skill3":"API testing", "skill4":"mobile testing", "skill5":"Postman testing", "skill6":"Charles & Fiddler", "skill7":"Devtools", "skill8":"VPN", "skill9":"iOS & Android - guideline", "skill10":"XCode", "skill11":"Android Studio", "skill12":"ADB","skill13":"Git & Gitbash", "skill14":"SQL", "skill15":"Jmeter", "skill16":"Scrum"}'
+var jsonEtc = '{"etc":"https://ksendzov.com/"}'
+
